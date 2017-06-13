@@ -65,7 +65,7 @@ LP: '{';
 
 RP: '}';
 
-SEMI: ';' ;
+SEMI: ';'  ;
 
 WS : [ \t\r\n]+ -> skip ; // skip spaces, tabs, newlines
 
