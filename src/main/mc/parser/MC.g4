@@ -1,6 +1,6 @@
 /**
- * Student name:
- * Student ID:
+ * Student name: Pham Gia Bao
+ * Student ID: 1410231
  */
 grammar MC;
 
